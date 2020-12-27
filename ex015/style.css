@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+   background-color: lightsteelblue; /*Mudar a cor de fundo  */
+   font-family: Arial, Helvetica, sans-serif; /*Muda a fonte*/
+}
+
+h1 {
+   color: darkblue; /*Muda a cor da fonte*/
+   background-color: lightblue;
+}
+
+h2{
+   color: darkred;
+}
+
+p{
+   text-align: justify;
+}
